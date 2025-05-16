@@ -19,3 +19,15 @@ A basic e-commerce website built using **PHP**, **MySQL**, **HTML**, **CSS**, an
 
 ## 📂 Project Structure
 
+## ⚙️ Setup Instructions
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/nitesh23yadav/ecommerce_php_mysql.git
+Import the database.sql file into your local MySQL server using phpMyAdmin or the MySQL CLI.
+
+Configure your database connection inside config/db.php by setting your DB host, username, password, and database name.
+
+Run the project on a local server like XAMPP, WAMP, or Laragon. Make sure Apache and MySQL are running.
+
+
