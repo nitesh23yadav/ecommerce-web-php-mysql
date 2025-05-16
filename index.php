@@ -945,7 +945,7 @@ while ($row=mysqli_fetch_array($run_box)) {
             <div class="pal">
                 
             </div>
-            <p class="credit">Copyright &copy; <span>2025-2026</span> | all rights reserved. | <span>Designed By Berry</span></p>
+            <p class="credit">Copyright &copy; <span>2025-2025</span> | all rights reserved. | <span>Designed By Berry</span></p>
         </div>
      </div>
   </footer>
